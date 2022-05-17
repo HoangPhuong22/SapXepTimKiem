@@ -21,8 +21,6 @@ void nhap(){
 
 
 int main(){
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
     nhap();
     double left = 0;
     double right = 1e18;
